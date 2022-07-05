@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @obidjonova2307
+- 👋 Hi, I’m Robiya
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Google, Samsung or something like that
